@@ -1,2 +1,2 @@
 # DSA
-A simple rep for data structure and algorithms in C++
+A simple rep for data structures and algorithms in C++
